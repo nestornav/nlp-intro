@@ -19,17 +19,19 @@ La materia hace uso de las siguientes tecnologías:
 sudo apt-get install git python-pip python3 virtualenvwrapper
 ```
 
-```
 2- Preparar el entorno de trabajo con virtualenv
+
 ```
 mkvirtualenv -p $(which python3)  nombre_del_entorno_a_elegir
 ```
+
 2.1- Activar/desactivar el enotrno
 
 ```
 workon nombre_elegido
 ```
 
+Desactivar el entorno virtual
 ```
 deactivate
 ```
