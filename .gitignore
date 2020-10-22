@@ -1,0 +1,16 @@
+.env
+*.csv
+
+__pycache__/
+.mypy_cache/
+*.egg
+
+# IDEs files
+.idea
+.vscode/
+
+*.DS_Store
+
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
