@@ -3,9 +3,9 @@
 ## Trabajos de integración
 
 El objetivo principal es poder realizar una serie de trabajos para poder entender y aprender los conceptos vistos.
-Al tiempo que, contaremos con un trabajo integrador para aplicar de forma integral todo lo visto.
+Al tiempo que, contaremos con un trabajo integrador para aplicar de forma integral lo estudiado a lo largo del módulo.
 
-En el módulo vamos a contar con una serie de trabajos mas pequeños. Estos nos ayudarán a captar los conceptos e ideas subyacentes al mundo de PLN.
+Este módulo cuenta con una serie de trabajos pequeños. Estos nos ayudarán a captar los conceptos e ideas subyacentes al mundo de PLN.
 La mayoría de ellos, son auto concluyentes, pero irán incrementando los conocimientos vistos.
 
 ---

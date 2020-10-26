@@ -9,7 +9,7 @@ La materia hace uso de las siguientes tecnologías:
 * Git
 * Virtualenvwrapper **
 
-**Como recomendación, se sugiere el uso de esta librería para mantener un orden de las librerías en su computadora.
+**Como recomendación, se sugiere el uso de estas herramienta para mantener un orden de las librerías en su computadora sin comprometer las ya existentes.
 
 ## Instalación
 
@@ -25,21 +25,25 @@ sudo apt-get install git python-pip python3 virtualenvwrapper
 mkvirtualenv -p $(which python3)  nombre_del_entorno_a_elegir
 ```
 
-2.1- Activar/desactivar el enotrno
+2.1- Activar/desactivar el entorno
 
 ```
 workon nombre_elegido
 ```
 
 Desactivar el entorno virtual
+
 ```
 deactivate
 ```
 
 3- Obtener el código
+
 ```
 git clone https://github.com/nestornav/nlp-intro.git
 ```
+
+Sí núnca usaron Git + Github en sus vidas, les dejo un video que espero les resulte útil [acá](https://youtu.be/3XlZWpLwvvo).
 
 ## Estructura del repositorio
 
